@@ -5,6 +5,9 @@ save password data.
 
 # Features:
 -Secure Password Management: Save and manage passwords securely within Chrome's local storage.
+
 -Dynamic Interaction: Automatically captures passwords and website names from active web pages.
+
 -User-Friendly Interface: Intuitive UI for easy viewing and retrieval of saved passwords.
+
 -Security Focused: Adheres to security best practices, ensuring that passwords are stored and managed securely.
